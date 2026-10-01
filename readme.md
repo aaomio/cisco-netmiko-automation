@@ -6,12 +6,11 @@ The project was built in two stages: first establishing the network and remote a
 
 ## Project Structure
 
-```text
 .
 ├── [config_init/](config_init/)
 ├── [run_cfg_dotpy/](run_cfg_dotpy/)
 └── [Screengrabs/](Screengrabs/)
-```
+
 
 ### `config_init`
 
