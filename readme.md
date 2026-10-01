@@ -42,3 +42,4 @@ An EtherChannel was configured between the two switches using LACP.
 
 Telnet was enabled for remote access because SSH was not supported by the IOS used on the lab devices.
 
+A management port was configured on the WLC to allow the end host to connect to the cisco devices. The end host was configured with a static IP address through ncpa.cpl so it could communicate with the management interfaces and push configurations.
